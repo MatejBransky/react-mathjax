@@ -1,5 +1,7 @@
 # React MathJax
-React component to display math formulas written in AsciiMath | TeX | MathML. 
+React component to display math formulas written in AsciiMath | TeX | MathML.
+
+Based on the [react-mathjax](https://github.com/SamyPesse/react-mathjax) from SamyPesse. The main difference is in extended options (delay of rendering and support for AsciiMath).
 
 ## Usage
 ```jsx
