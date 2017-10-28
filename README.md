@@ -53,7 +53,7 @@ module.exports = () => {
 
 #### `input` (String)
 - Sets type of input.
-- Options: `tex` | `ascii` | `ml`
+- Options: `tex` | `ascii`
 - Default: `ascii`
 
 #### `delay` (Number)
