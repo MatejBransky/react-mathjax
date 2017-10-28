@@ -1,0 +1,38 @@
+{
+  "name": "@matejmazur/react-mathjax",
+  "version": "0.1.0",
+  "description": "React component for MathJax",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatejMazur/react-mathjax.git"
+  },
+  "keywords": [
+    "math",
+    "mathjax",
+    "react",
+    "component",
+    "equation",
+    "expression",
+    "asciimath",
+    "latex",
+    "tex",
+    "mathml"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatejMazur/react-mathjax/issues"
+  },
+  "homepage": "https://github.com/MatejMazur/react-mathjax#readme",
+  "dependencies": {
+    "load-script": "^1.0.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0",
+    "eslint-plugin-react": "^7.4.0"
+  }
+}
