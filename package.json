@@ -1,6 +1,6 @@
 {
   "name": "@matejmazur/react-mathjax",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React component for MathJax",
   "main": "index.js",
   "repository": {
