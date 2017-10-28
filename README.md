@@ -1,8 +1,7 @@
 # React MathJax
-React component to display math formulas written in AsciiMath | TeX | MathML.
+React component to display math formulas written in AsciiMath | TeX | MathML. 
 
 ## Usage
-
 ```jsx
 const MathJax = require('@matejmazur/react-mathjax')
 const ascii = 'U = 1/(R_(si) + sum_(i=1)^n(s_n/lambda_n) + R_(se))'
@@ -19,7 +18,7 @@ module.exports = () => {
                     <MathJax.Node>{ascii}</MathJax.Node>
                 </div>
             </MathJax.Context>
-            
+
             <MathJax.Context input='tex'>
                 <div>
                     This is an inline math formula: <MathJax.Node inline>{'a = b'}</MathJax.Node>
@@ -46,9 +45,16 @@ module.exports = () => {
 - Options: `tex` | `ascii` | `ml`
 - Default: `ascii`
 
+#### `delay` (Number)
+- Sets delay between updates.
+- Default: 0 (the main difference between this library and [react-mathjax](https://github.com/SamyPesse/react-mathjax) from SamyPesse)
+
 #### `options` (Object)
 - Sets [MathJax configuration](http://docs.mathjax.org/en/latest/options/index.html?highlight=hub.config#configuration-objects). 
 - Default: Official MathJax configuration
 
 ## Acknowledgements
 - This project was forked from [SamyPesse](https://github.com/SamyPesse) ([react-mathjax](https://github.com/SamyPesse/react-mathjax)).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
