@@ -1,5 +1,5 @@
 # React MathJax
-*(experimental)*
+*(experimental, not maintained)*
 
 ## Update
 Here is better maintained repo: https://github.com/wko27/react-mathjax
