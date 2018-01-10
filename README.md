@@ -4,6 +4,7 @@
 ## Update
 Here is better maintained repo: https://github.com/wko27/react-mathjax
 
+## Quick info
 React component to display math formulas written in AsciiMath or TeX.
 
 ![Example of usage](/example.gif)
