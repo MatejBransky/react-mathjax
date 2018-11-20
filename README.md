@@ -1,6 +1,14 @@
 # React MathJax
 *(experimental, not maintained)*
 
+## Use [`@matejmazur/react-katex`](https://www.npmjs.com/package/@matejmazur/react-katex) instead!
+- it contains tests
+- KaTeX with React is much better than MathJax
+- supports macros! (example of usage in [demo](https://codesandbox.io/s/github/MatejMazur/react-katex/tree/master/demo) - replacing `\cdot` with asterisk `*`)
+- smaller
+- much more readable internal code
+- ...
+
 ## Update
 Here is better maintained repo: https://github.com/wko27/react-mathjax
 
