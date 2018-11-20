@@ -9,6 +9,7 @@
 - smaller
 - much more readable internal code
 - LaTeX is better than AsciiMath
+- `react` and `katex` are in `pkg.devDependencies` (user now has power to update dependencies)
 - ...
 
 ## Update
