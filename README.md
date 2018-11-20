@@ -8,7 +8,7 @@
 - supports macros! (example of usage in [demo](https://codesandbox.io/s/github/MatejMazur/react-katex/tree/master/demo) - replacing `\cdot` with asterisk `*`)
 - smaller (1.8 kB minified, 920 B gzip)
 - much more readable internal code (no weird quirks with mathjax lib)
-- LaTeX is better than AsciiMath
+- LaTeX is better than AsciiMath (KaTeX supports only LaTeX math)
 - `react` and `katex` are in `pkg.devDependencies` (user now has power to update dependencies)
 - ...
 
