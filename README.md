@@ -1,5 +1,4 @@
-# React MathJax 
-# _(deprecated, use [`@matejmazur/react-katex`](https://www.npmjs.com/package/@matejmazur/react-katex) instead)_
+# React MathJax
 *(experimental, not maintained, archived)*
 
 ## Why [`@matejmazur/react-katex`](https://www.npmjs.com/package/@matejmazur/react-katex)?
